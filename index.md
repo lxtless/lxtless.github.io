@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## 欢迎来到我的GitHub主页(/^_^)/
 
-You can use the [editor on GitHub](https://github.com/lxtless/lxtless.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+个人小项目传送门：
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[JavaFX实现flash种花小游戏](https://help.github.com/categories/github-pages-basics/)
 
-### Markdown
+[Java客户端+服务器通信尝试](https://help.github.com/categories/github-pages-basics/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+### 个人简介
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+- 大连理工大学 计算机科学与技术学院 计算机工程向
 
-- Bulleted
-- List
+- 邮箱：374503035@qq.com
 
-1. Numbered
-2. List
+- 毕业时间：2021年
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### 兴趣爱好
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lxtless/lxtless.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### 不知道该写啥。
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
